@@ -50,8 +50,11 @@
 
 ## Структура проекта
 docs/
+
 screenshots/
+
 src/
+
 README.md
 
 ---
